@@ -1,0 +1,3 @@
+<?php 
+inclue 'admin';
+ ?>
